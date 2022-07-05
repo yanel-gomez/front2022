@@ -1,0 +1,78 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: indianred;
+}
+h2{
+    text-align: left;
+    font-size: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:firebrick;
+    font-style: italic;
+}
+img{
+    width: 200px;
+    height: 150px;
+    margin: 10px;
+}
+.box1{
+    background-color: lightsalmon;
+    border: 10px solid salmon;
+    width: 10%;
+    height: 30px;
+    margin: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.box2{
+    background-color: lightsalmon;
+    border: 10px solid salmon;
+    width: 20%;
+    height: 30px;
+    margin: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.box3{
+    background-color: lightsalmon;
+    border: 10px solid salmon;
+    width: 30%;
+    height: 30px;
+    margin: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.box4{
+    background-color: lightsalmon;
+    border: 10px solid salmon;
+    width: 40%;
+    height: 30px;
+    margin: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.box5{
+    background-color: lightsalmon;
+    border: 10px solid salmon;
+    width: 50%;
+    height: 30px;
+    margin: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.box6{
+    background-color: lightsalmon;
+    border: 10px solid salmon;
+    width: 60%;
+    height: 30px;
+    margin: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
