@@ -1,0 +1,69 @@
+.borde{
+    border: solid black 1px;
+}
+.prop{
+    height:200px;
+    margin-bottom: 10px;
+    display:flex;
+    justify-content: space-between;
+}
+.redondeado{
+    border-radius: 10px;
+}
+.encabezado
+{
+    background-color:lightgray;
+    padding-top: 10px;
+    margin-bottom: 5px;
+}
+.menu1{
+    background-color: green;
+    color: white;
+    height: 30px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+.logo{
+    background-color: midnightblue;
+    color: white;
+    height: 30px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+.menu2 {
+    background-color: darkred;
+    color: white;
+    height: 30px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+.izquierda {
+    background-color: #474b4e;
+    color: white;
+}
+.centro {
+    background-color: cadetblue;
+    color: white;
+}
+.derecha {
+    background-color: orange;
+    color: white;
+}
+.izq2 {
+    background-color: #013220;
+    color: white;
+}
+.der2 {
+    background-color: saddlebrown;
+    color: white;
+}
+.pie {
+    background-color: mediumturquoise;
+}
+.elemento {
+    background-color: midnightblue;
+    color: white;
+    height: 30px;
+    margin-bottom: 15px;
+    padding-left: 10px;
+}
