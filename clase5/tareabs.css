@@ -38,6 +38,7 @@
     padding-left: 10px;
 }
 .izquierda {
+    width: 32%;
     background-color: #474b4e;
     color: white;
 }
@@ -50,6 +51,7 @@
     color: white;
 }
 .izq2 {
+    width: 66%;
     background-color: #013220;
     color: white;
 }
