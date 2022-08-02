@@ -1,0 +1,31 @@
+.fondo{
+    background-color:moccasin;
+}
+
+.borde{
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+h2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.degradado {
+    border: violet;
+    background: linear-gradient(palevioletred 30%, pink );  
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.degradado2 {
+    border: blue;
+    background: linear-gradient(palevioletred 30%, pink ); 
+    margin-bottom: 20px;
+    margin-top: 10px;
+    color: white;
+}

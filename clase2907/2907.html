@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agrega elementos en lista y párrafo</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="2907.css">
+</head>
+
+
+<body class="fondo">
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="borde degradado col-12">
+                <h1>My Website</h1>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="borde degradado2 col-12 col-sm-6">
+                <h2>Mi Lista</h2>
+                <div>
+                    <ol id="lista">
+                        <li>Punto uno</li>
+                        <li>Punto dos</li>
+                        <li>Punto tres</li>
+                    </ol>
+                </div>
+                <input id="inputLista" type="text" value="" placeholder="Ingrese nuevo elemento">
+                <button id="botonLista" onclick="agregarElemento()" >Agregar Elemento</button>
+            </div>
+            <div class="borde degradado2 col-12 col-sm-6">
+                <h2>Mi párrafo</h2>
+                <div id="divParrafo">
+                    
+                </div>
+                <input id="inputParrafo" type="text" value="" placeholder="Ingrese texto aquí">
+                <button id="botonParrafo" onclick="agregarParrafo()">Agregar Párrafo</button>
+            </div>
+        </div>
+        
+    </div>
+    <script src="2907.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+
+
+</html>
